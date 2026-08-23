@@ -1,0 +1,14 @@
+name: PR Summary
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ghassan-gaidi/ai-pr-summary@master

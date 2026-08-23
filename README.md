@@ -42,3 +42,5 @@ AWS Bedrock, Azure OpenAI, Vertex AI trials.
 
 PRs welcome — include a source link for any claim. Vendors: disclose your
 free-tier limits precisely or expect the community to do it for you.
+
+PRs improving accuracy welcome — cite sources.
