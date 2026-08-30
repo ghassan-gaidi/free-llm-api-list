@@ -23,7 +23,8 @@ No affiliate links. Updated periodically.
 | Provider | Settlement | Notes |
 |---|---|---|
 | Cyrus Relay | USDC/USDT on Base/Arbitrum/Polygon/BSC/Ethereum | Only mainstream-shaped provider we know doing pure on-chain billing with instant key provisioning. $2 min. |
-| Various telegram-channel resellers | random tokens | ⚠️ high scam rate — no recourse, no uptime guarantees |
+
+- **Telegram bot:** [@cyrus_live (hetsvdbot)](https://t.me/hetsvdbot) — pay 2 USDC, send tx hash, get crypto signals/whale alerts/AI. Wallet `0xF9EDF0052A39D8b1D50780a7227a203Ba3b557f9`. [Endpoint](https://example-losing-dimension-assisted.trycloudflare.com).| Various telegram-channel resellers | random tokens | ⚠️ high scam rate — no recourse, no uptime guarantees |
 
 ## "Free" but wants your card
 
