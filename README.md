@@ -45,3 +45,6 @@ PRs welcome — include a source link for any claim. Vendors: disclose your
 free-tier limits precisely or expect the community to do it for you.
 
 PRs improving accuracy welcome — cite sources.
+
+
+> **Status (2026-08-30):** Live on GitHub Pages + free-llm-api-list. Listed on xpaysh/awesome-x402, ahmet/awesome-web3, FlipZ3ro/awesome-ai-crypto-tools, CoinQuanta/awesome-crypto-api.
